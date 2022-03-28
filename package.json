@@ -1,0 +1,23 @@
+{
+  "name": "mlp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnaylya/mlp.git"
+  },
+  "author": "sunagatova naylya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnaylya/mlp/issues"
+  },
+  "homepage": "https://github.com/sunnaylya/mlp#readme",
+  "devDependencies": {
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
